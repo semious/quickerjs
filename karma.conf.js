@@ -1,5 +1,4 @@
 // Karma configuration
-// Generated on Tue Jun 09 2020 14:12:14 GMT+0800 (GMT+08:00)
 
 const karmaTypescriptConfig = {
   tsconfig: 'tsconfig.json',
